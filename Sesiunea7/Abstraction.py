@@ -4,7 +4,7 @@
 
 # O metoda = o functie intr-o clasa
 
-# O clasa abstractaa nu poate fi instantiata
+# O clasa abstracta nu poate fi instantiata
 
 from abc import abstractmethod, ABC  # abstract base class
 
