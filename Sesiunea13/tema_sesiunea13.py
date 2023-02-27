@@ -17,4 +17,4 @@ Un alt proiect, poate proiectul final?
 
 '''
 #  -----> online_shop.py
-#  -----> 
+#  -----> app --> website
